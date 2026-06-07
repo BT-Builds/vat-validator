@@ -71,3 +71,6 @@ curl -X POST https://vat-validator.vercel.app/parse \
 ## Monetize
 
 List on RapidAPI for $15/month team plans. Target: e-commerce platforms, accounting software, B2B marketplaces.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/vat-validator/main/postman_collection.json)
